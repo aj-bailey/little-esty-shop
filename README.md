@@ -53,7 +53,7 @@ This wireframe demostrates an example of design used in pages of the application
 
 ### Application
 
-You can visit this application hosted on heroku(link here)
+You can visit this application hosted on [Heroku](https://immense-everglades-61319.herokuapp.com/)
 
 
 To get started on your local machine, you'll need to have Ruby and PostgreSQL installed on your system. You can then follow these steps:
